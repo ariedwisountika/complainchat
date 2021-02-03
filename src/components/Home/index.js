@@ -7,7 +7,7 @@ function HomeScreen({ navigation }) {
              <Image source={require('../../asset/background.jpg')} style={styles.bg1}/>
              <Image source={require('../../asset/logo.png')} style={styles.bg2}/>
              <Button
-                title="Chatt Now"
+                title="Chat Now"
                 onPress={() => navigation.navigate('Chat')}
                 style={styles.bgbutton}
             />

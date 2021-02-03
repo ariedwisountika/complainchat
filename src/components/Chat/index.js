@@ -88,6 +88,6 @@ class ChatScreen extends Component {
   const styles = StyleSheet.create({
     bg:{ 
       flex: 1, 
-      backgroundColor: 'grey' 
+      backgroundColor: 'skyblue' 
     }
   })
